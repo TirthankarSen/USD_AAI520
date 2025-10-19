@@ -7,7 +7,7 @@
 
 > **A comprehensive Jupyter notebook implementing a multi-agent AI system for autonomous investment research and portfolio optimization using LangChain and Google's Gemini LLM.**
 
-**AAI 551 - Final Team Project**  
+**AAI 520 - Final Team Project**  
 **Team Members:** Tirthankar Sen, Kesavan Rangaswamy, Rajendra Warke  
 **Date:** October 2025
 
@@ -581,7 +581,7 @@ If you use this notebook in your research or coursework:
   month = {10},
   howpublished = {Jupyter Notebook},
   url = {https://github.com/yourusername/investment-research-agent},
-  note = {AAI 551 Final Project}
+  note = {AAI 520 Final Project}
 }
 ```
 
@@ -589,7 +589,7 @@ If you use this notebook in your research or coursework:
 ```
 Sen, T., Rangaswamy, K., & Warke, R. (2025). Investment Research Agent 
 with LangChain and Gemini: A Multi-Agent AI System for Portfolio 
-Optimization [Jupyter Notebook]. AAI 551 Final Project.
+Optimization [Jupyter Notebook]. AAI 520 Final Project.
 ```
 
 ---
@@ -613,7 +613,7 @@ in the Software without restriction...
 - **LangChain Team** - Agent framework
 - **Google AI** - Gemini API
 - **Yahoo Finance** - Financial data
-- **AAI 551 Staff** - Project guidance
+- **USD AAI Staff** - Project guidance
 - **Open Source Community** - Supporting libraries
 
 ---
